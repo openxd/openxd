@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = [
+    "ui",
+    "standalone",
+    "backend",
+    "web-backend",
+    "web-frontend"
+]
